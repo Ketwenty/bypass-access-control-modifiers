@@ -4,10 +4,6 @@ import java.util.Map;
 import java.util.Map.Entry;
 
 /**
- * 
- */
-
-/**
  * @author ketwenty
  *
  */
@@ -58,6 +54,5 @@ public class Util {
 
 		}
 		return resultat;
-
 	}
 }
