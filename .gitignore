@@ -4,8 +4,8 @@
 .classpath
 .project
 target/
-./pom.xml
-
+bin/
+log/
 # Log file
 *.log
 
